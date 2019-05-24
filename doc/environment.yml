@@ -1,0 +1,6 @@
+
+name: splinartpointal
+dependencies:
+  - notebook
+  - sphinx
+  - nbsphinx
