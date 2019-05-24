@@ -3,8 +3,7 @@ env:
   - PYVER="3.5"
   - PYVER="3.6"
   - PYVER="3.7"
-  - PYVER="3.8"
-  
+
 os:
   - linux
   - osx
