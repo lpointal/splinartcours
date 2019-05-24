@@ -1,5 +1,7 @@
 
 name: splinartpointal
+channels:
+  - conda-forge
 dependencies:
   - notebook
   - sphinx
