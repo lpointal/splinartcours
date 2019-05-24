@@ -2,3 +2,7 @@ numpy
 matplotlib
 six
 pytest
+pylint
+pytest-pylint
+pytest-cov
+codecov
